@@ -6,4 +6,4 @@ This project involves using Advanced Excel (Pivots, graphs, Data Analysis) to dr
 
 The Excel sheet named 'combined data' contains the working.
 The PDF file named 'XYZ Performance' summerizes the project.
-Rest of the Excel sheets are the original data shared.
+Rest of the CSV sheets are the original data shared.
