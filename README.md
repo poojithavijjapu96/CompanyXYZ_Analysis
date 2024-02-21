@@ -8,11 +8,7 @@ The data comprises loan performance data summarized by the merchant. Every merch
 
 
 <h3>Analysis:</h3>
-Utilizing advanced Excel techniques such as pivots, graphs, and data analysis functions, we explore patterns and insights within the loan performance data. Our analysis includes:
-
-_<h4>1. Profit by Category:</h4>_ Analysis reveals profit generated across different merchant categories.
-_<h4>2. Profit Share by Category:</h4>_ Insights into the distribution of profit among various merchant categories.
-_<h4>3. Classifications:</h4>_ Initial findings highlight the classification of merchants based on transaction volume and Fico scores.
+In our analysis, we harness the power of advanced Excel techniques, such as pivots, graphs, and data analysis functions, to thoroughly explore the loan performance data. Our investigation spans various aspects, including dissecting profit patterns across merchant categories, unraveling the distribution of profit among these categories, and uncovering insights into merchant classifications based on transaction volume and Fico scores. By delving into these intricacies, we aim to gain a comprehensive understanding of the underlying dynamics driving profitability within the company.
 
 
 <h3>Highlights:</h3>
