@@ -20,6 +20,7 @@ _<h4>3. Tiered MDR Approach:</h4>_ Introduction of a tiered approach to MDR acco
 _<h4>4. Repayment Rate Analysis:</h4>_ Consideration of repayment percentages to update merchant segments before Fico updates.
 
 <h3>Resources:</h3>
+
 - The Excel sheet named 'combined data' contains the combined, manipulated data and also the analysis and working.
 - The PDF file named 'XYZ Performance' summarizes the project.
 - Original data is available in CSV sheets provided by Company XYZ.
